@@ -28,13 +28,13 @@ Readings
 
 Required readings will include selected lecture notes from previous semesters of the course, as well as research articles, and chapters from the following textbooks:
 
-Newman, John, and Karen E. Thomas-Alyea. _Electrochemical Systems_. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
+Newman, John, and Karen E. Thomas-Alyea. _Electrochemical Systems_. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with {{% resource_link "365cf844-7ebc-42ec-bed0-ef363fb09ee6" "Google Books" %}}\]
 
 Bard, Allen J., and Larry R. Faulkner. _Electrochemical Methods: Fundamentals and Applications_. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
 
 O' Hayre, Ryan, Suk-Won Cha, et al. _Fuel Cell Fundamentals_. 2nd ed. Wiley, 2009. ISBN: 9780470258439.
 
-Huggins, Robert A. _Advanced Batteries: Materials Science Aspects_. Springer, 2008. ISBN: 9780387764238. \[Preview with [Google Books](http://books.google.com/books?id=atEOtixRHvcC&pg=PAfrontcover)\]
+Huggins, Robert A. _Advanced Batteries: Materials Science Aspects_. Springer, 2008. ISBN: 9780387764238. \[Preview with {{% resource_link "2d75f269-a722-4fce-95a3-2cf380d49f05" "Google Books" %}}\]
 
 Grading
 -------
