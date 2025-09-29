@@ -5,6 +5,8 @@ description: This resourse contains information related to Electronic Contributi
 file: /courses/10-626-electrochemical-energy-systems-spring-2014/9a43bb4acf25ad0efef732ef46cb866a_MIT10_626S14_Lec19_MZB.pdf
 file_size: 1206390
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

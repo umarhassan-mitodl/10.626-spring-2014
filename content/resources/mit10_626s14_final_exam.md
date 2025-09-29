@@ -4,6 +4,8 @@ description: This resource contains the information regarding final exam.
 file: /courses/10-626-electrochemical-energy-systems-spring-2014/f628ad3ef0e2f528a861886adb943723_MIT10_626S14_Final_Exam.pdf
 file_size: 776188
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

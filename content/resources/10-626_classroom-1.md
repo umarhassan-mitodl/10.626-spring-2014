@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-626-electrochemical-energy-systems-spring-2014/3f66ab427694b67bb6d54a579347b962_10-626_classroom-1.jpg
 file_size: 46817
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

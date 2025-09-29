@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the midterm exam with solutions and the final exam
   for the course. Solutions for the final exam are not available.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
