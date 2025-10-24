@@ -4,8 +4,6 @@ description: This resource contains the information regarding midterm exam.
 file: /courses/10-626-electrochemical-energy-systems-spring-2014/044f3fdf2d0478b27025f4f393a07844_MIT10_626S14_Mid_Exam_SOL.pdf
 file_size: 672511
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

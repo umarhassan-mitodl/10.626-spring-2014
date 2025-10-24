@@ -42,7 +42,6 @@
     "website": "10-626-electrochemical-energy-systems-spring-2014"
   },
   "course_title": "Electrochemical Energy Systems",
-  "hide_download": true,
   "course_description": "This course introduces principles and mathematical models of electrochemical energy conversion and storage. Students study equivalent circuits, thermodynamics, reaction kinetics, transport phenomena, electrostatics, porous media, and phase transformations. In addition, this course includes applications to batteries, fuel cells, supercapacitors, and electrokinetics.\n",
   "department_numbers": [
     "10"
@@ -53,7 +52,6 @@
     "content": "a049f7f0-fa23-a614-cc94-ad5bba3b9e4c",
     "website": "10-626-electrochemical-energy-systems-spring-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",
