@@ -4,8 +4,6 @@ description: This section provides the schedule of course topics, lecture notes 
   selected sessions, citations and links to  associated readings, and additional lecture
   notes by student scribes.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Lecture Notes
 uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 ---
