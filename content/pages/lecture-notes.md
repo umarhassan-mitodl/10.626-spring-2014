@@ -9,13 +9,13 @@ uid: b06bfa4c-51cb-c135-2f53-c2b2f9f05768
 ---
 Topics covered in lectures in 2014 are listed below. In some cases, links are given to new lecture notes by student scribes. All scribed lecture notes are used with the permission of the  anonymous student author. The recommended reading refers to the lectures notes and exam solutions from previous years or to the books listed below. Lecture notes from previous years are also found in the {{% resource_link b110e107-aca1-a818-8327-eb868ff7909b "study materials" %}} section.
 
-\[Newman\] = Newman, John, and Karen E. Thomas-Alyea. _Electrochemical Systems_. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
+\[Newman\] = Newman, John, and Karen E. Thomas-Alyea. _Electrochemical Systems_. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with {{% resource_link "fc5c5335-f0a0-46cf-8495-11ef98154373" "Google Books" %}}\]
 
 \[Bard\] = Bard, Allen J., and Larry R. Faulkner. _Electrochemical Methods: Fundamentals and Applications_. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
 
 \[O' Hayre\] = O' Hayre, Ryan, Suk-Won Cha, et al. _Fuel Cell Fundamentals_. 2nd ed. Wiley, 2009. ISBN: 9780470258439.
 
-\[Huggins\] = Huggins, Robert A. _Advanced Batteries: Materials Science Aspects_. Springer, 2008. ISBN: 9780387764238. \[Preview with [Google Books](http://books.google.com/books?id=atEOtixRHvcC&pg=PAfrontcover)\]
+\[Huggins\] = Huggins, Robert A. _Advanced Batteries: Materials Science Aspects_. Springer, 2008. ISBN: 9780387764238. \[Preview with {{% resource_link "8e0fcc7e-527b-4496-9b8b-872bf2438d9d" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -163,7 +163,7 @@ Reactions in Concentrated Solutions
 
 {{% resource_link ee95cc27-e2ce-1d5e-eef2-1cebdbf7a393 "2011 Lecture 14: Faradaic Reactions in Concentrated Solutions (PDF)" %}}
 
-Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1146–47.
+Bazant, M. Z. "{{% resource_link "263f578f-b7ad-4edf-b713-8bed19e32a11" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}." _Accounts of Chemical Research_ 46, no. 5 (2013): 1146–47.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -175,7 +175,7 @@ Faradaic Reactions
 
 {{% resource_link 56cfa6e0-f28b-c8fc-1a64-7cbe679384d1 "2011 Lecture 13: Butler-Volmer Equation (PDF)" %}}
 
-Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1148–49.
+Bazant, M. Z. "{{% resource_link "263f578f-b7ad-4edf-b713-8bed19e32a11" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}." _Accounts of Chemical Research_ 46, no. 5 (2013): 1148–49.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -197,14 +197,14 @@ Butler-Volmer Equation
 
 {{% resource_link 3094956a-c103-de11-c8fa-438bca9595ea "2011 Lecture 15: Ion Adsorption and Intercalation (PDF)" %}}
 
-Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1155–57.
+Bazant, M. Z. "{{% resource_link "263f578f-b7ad-4edf-b713-8bed19e32a11" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}." _Accounts of Chemical Research_ 46, no. 5 (2013): 1155–57.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20-21
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 08779cb0-04de-2029-8440-84c21eb603a0 "Electrochemical Phase Transformations (PDF - 1.5MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
- Bai, P., D. A. Cogswell, et al. "[Suppression of Phase Separation in LiFePO4 Nanoparticles During Battery Discharge](http://Dx.doi.org/10.1021/nl202764f)." _Nano Letters_ 11, no. 11 (2011): 4890–96.
+ Bai, P., D. A. Cogswell, et al. "{{% resource_link "95c946ea-9858-4ac9-9d98-1a1d8514d94c" "Suppression of Phase Separation in LiFePO4 Nanoparticles During Battery Discharge" %}}." _Nano Letters_ 11, no. 11 (2011): 4890–96.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -216,16 +216,16 @@ Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequi
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 83fd595d-e35b-5c7d-fe6f-d2cf563cb5a5 "Heterogeneous Charge Transfer (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1149–50.
+Bazant, M. Z. "{{% resource_link "263f578f-b7ad-4edf-b713-8bed19e32a11" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}." _Accounts of Chemical Research_ 46, no. 5 (2013): 1149–50.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 6dc46d95-3a14-a402-7a52-d5f784f89738 "Charge Transfer at Metal Electrodes (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Bai, P., and M. Z. Bazant. "[Charge Transfer Kinetics at the Solid/Solid Interface in Porous Electrodes](http://Dx.doi.org/10.1038/ncomms4585)." _Nature Communications_ 5, no. 3585 (2014).
+Bai, P., and M. Z. Bazant. "{{% resource_link "aafffa09-2689-4ed8-840d-f30f084f735f" "Charge Transfer Kinetics at the Solid/Solid Interface in Porous Electrodes" %}}." _Nature Communications_ 5, no. 3585 (2014).
 
-Zeng, Y., R. Smith, P. Bai, and M.Z. Bazant. "[Simple Formula for Marcus-Hush-Chidsey Kinetics](http://www.sciencedirect.com/science/article/pii/S1572665714004330)." _J. Electroanal. Chem._ 735(2014): 77-83.
+Zeng, Y., R. Smith, P. Bai, and M.Z. Bazant. "{{% resource_link "0ce02c22-a414-428f-95bc-af1f7ee0a7f8" "Simple Formula for Marcus-Hush-Chidsey Kinetics" %}}." _J. Electroanal. Chem._ 735(2014): 77-83.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. Transport Phenomena**
@@ -273,14 +273,14 @@ Warburg Impedance
 
 Deen, William M. _Analysis of Transport Phenomena_. Oxford University Press, 1998. ISBN: 9780195084948.
 
-Braff, W. A., C. R. Buie, et al. "[Boundary Layer Analysis of Electrochemical Cells](http://dx.doi.org/10.1149/2.052311jes)." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63.
+Braff, W. A., C. R. Buie, et al. "{{% resource_link "fc4e9ee8-9eaa-45d0-b21d-59dae3e11342" "Boundary Layer Analysis of Electrochemical Cells" %}}." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link e787aa8b-689b-a913-4ab3-6af3e1d03456 "Forced Convection II (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Braff, W. A., C. R. Buie, et al. "[Boundary Layer Analysis of Electrochemical Cells](http://dx.doi.org/10.1149/2.052311jes)." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63.
+Braff, W. A., C. R. Buie, et al. "{{% resource_link "fc4e9ee8-9eaa-45d0-b21d-59dae3e11342" "Boundary Layer Analysis of Electrochemical Cells" %}}." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
 {{< tdclose >}}{{< tdopen >}}
@@ -295,7 +295,7 @@ Transport in Solids
 
 {{% resource_link 37f511c8-f39e-16f5-df5a-3c547201d253 "2011 Lecture 21: Solids and Concentrated Solutions (PDF)" %}}
 
-Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1147.
+Bazant, M. Z. "{{% resource_link "263f578f-b7ad-4edf-b713-8bed19e32a11" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}." _Accounts of Chemical Research_ 46, no. 5 (2013): 1147.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
@@ -371,6 +371,6 @@ Porous Electrodes (Overview)
 
 \[Newman\] Chapter 22.
 
-Ferguson, T. R., and M. Z. Bazant. "[Nonequilibrium Thermodynamics of Porous Electrodes](http://dx.doi.org/10.1149/2.048212jes)." _Journal Electrochemical Society_ 159, no. 12 (2012): A1967–A1985.
+Ferguson, T. R., and M. Z. Bazant. "{{% resource_link "78d2252c-7a9f-4233-8964-c7e4093edda6" "Nonequilibrium Thermodynamics of Porous Electrodes" %}}." _Journal Electrochemical Society_ 159, no. 12 (2012): A1967–A1985.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
